@@ -25,6 +25,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Demo setup
+
+This repository was initialized for the demo workflow managed by Agent Orchestrator.
+
 ## Project setup
 
 ```bash
